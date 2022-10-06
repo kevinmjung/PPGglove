@@ -1,0 +1,52 @@
+Partlist
+
+Exported from PPGGlove.brd at 10/6/2022 2:38 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package          Library             Position (inch)       Orientation
+
+BT1      BC501SM        BAT_BC501SM      BC501SM             (3.44 0.01)           MR0
+C1       1uF            0805             SparkFun-Capacitors (2.87 0.68)           R270
+C2       1uF            0805             SparkFun-Capacitors (2.63 0.16)           MR180
+C3       1uF            0805             SparkFun-Capacitors (2.63 0.32)           MR180
+C4       1uF            0805             SparkFun-Capacitors (2.63 0.24)           MR180
+C5       1uF            0805             SparkFun-Capacitors (2.71 0.57)           R0
+C6       1uF            0805             SparkFun-Capacitors (2.71 0.64)           R0
+C7       470pF          0805             SparkFun-Capacitors (3.27094488 0.59188976) R0
+IC1                     SOT95P280X145-5N SamacSys_Parts      (2.63 0.29)           R180
+J1                      JST-2-SMD        SparkFun-Connectors (3.71606299 0.71968504) R0
+J2                      1X05             SparkFun-Connectors (2.5 -0.25)           R0
+J3       5031821852     503182-1852_MOL  PPG-part2           (3.43181102 -0.45826772) R180
+J4                      1X07             SparkFun-Connectors (2.33 -0.2)           R90
+J5       455-1750-1-ND  1X03             SparkFun-Connectors (3.04 0.58)           R90
+J6       455-1750-1-ND  1X03             SparkFun-Connectors (2.34 0.58)           R90
+J7                      1X02             SparkFun-Connectors (2.48 0.59)           R90
+JP1                     1X12             SparkFun-Connectors (2.5 0.45)            R0
+L1       LQM21PN1R0MGHL INDC2012X100N    LQM21PN1R0MGHL      (2.72 0.8)            R180
+R1       0              0805             SparkFun-Resistors  (2.91 0.81)           R180
+R2       4.7k?          0805             SparkFun-Resistors  (2.6 0.74)            R90
+R3       4.7k?          0805             SparkFun-Resistors  (2.49 0.81)           R180
+R9       0              0805             SparkFun-Resistors  (2.7 -0.115)          R90
+R10      0              0805             SparkFun-Resistors  (2.8 -0.115)          R90
+R11      4.7k?          0805             SparkFun-Resistors  (2.46 0.31)           R180
+R12      DNP            0805             SparkFun-Resistors  (2.47 -0.12)          MR0
+R13      4.7k?          0805             SparkFun-Resistors  (2.46 0.19)           R180
+R14      DNP            0805             SparkFun-Resistors  (2.47 -0.02)          MR0
+R15      100k?          0805             SparkFun-Resistors  (3.42905512 0.73748031) MR180
+R16      DNP            0805             SparkFun-Resistors  (2.93 -0.13)          R180
+R17      DNP            0805             SparkFun-Resistors  (2.82 0.16)           MR0
+R18      DNP            0805             SparkFun-Resistors  (2.93 -0.04)          R180
+R19      DNP            0805             SparkFun-Resistors  (2.82 0.24)           MR0
+R20      DNP            0805             SparkFun-Resistors  (2.59 0.02)           R0
+R21      200k?          0805             SparkFun-Resistors  (2.6 -0.12)           MR0
+SW1      R-667843       R-667843_MIT     additionallppg      (3.43 0.61)           R180
+TP7      DNP            0805             SparkFun-Resistors  (3.33893701 0.34031496) R0
+TP8      DNP            0805             SparkFun-Resistors  (3.62106299 0.33968504) R0
+TP9      DNP            0805             SparkFun-Resistors  (3.47893701 0.34031496) R180
+TP10     DNP            0805             SparkFun-Resistors  (3.78 0.34)           R0
+U1       TPS610997YFFT  YFF0006AFAD      additionallppg      (2.71 0.72)           R270
+U2       DS3231MZ/V+    21-0041B_8_MXM   additionallppg      (2.88 0.23)           R90
+U5       U3             DBV5             PPG-part2           (3.24370079 0.71066929) R180
